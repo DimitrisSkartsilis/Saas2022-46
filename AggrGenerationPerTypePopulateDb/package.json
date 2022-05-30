@@ -1,0 +1,19 @@
+{
+  "name": "AggrGenerationPerTypePopulateDb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AGPT.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon AGPT.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "g": "^2.0.1",
+    "nodemon": "^2.0.16",
+    "tedious": "^14.5.0"
+  }
+}
